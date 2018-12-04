@@ -1,2 +1,12 @@
 # TDDBilling
-TDD exercise using a simple billing system feature set
+TDD exercise using a simple billing system feature set.
+
+Using red/green/refactor cycle:
+
+First write a failing test,
+
+Then write the minimal feature code to pass the test, 
+
+Finally refactor and clean up the codebase.
+
+Repeat this till all the features are complete and tested working.
